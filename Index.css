@@ -1,0 +1,66 @@
+#header img{
+  width: 130px;
+}
+
+body{
+  background: #FFF7E4;
+}
+
+.marca-com{
+  font-family: 'Charmonman', cursive;
+  color: #ea9085;
+}
+#main .carousel-inner img{
+  max-height: 70vh;
+  object-fit: cover;
+
+}
+.colorTitulo{
+  color: pink;
+}
+#carousel{
+  position: relative;
+}
+
+#carousel .overlay{
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba(0,0,0,0.5);
+  color: white;
+}
+
+#carousel .overlay .container,
+#carousel .overlay .row
+{
+  height: 100%
+}
+
+#presentacion{
+  color: #e9e2d0;
+}
+
+.info-menu{
+font-family: 'Great Vibes', cursive;
+color: #4f323b;
+}
+
+.tarjeta img{
+  max-height: 50vh;
+}
+
+button{
+  background: #4f323b;
+}
+
+p{
+  color: #6e5773;
+}
+#footer{
+  padding-top: 30px;
+  padding-bottom: 30px;
+  color: #fff;
+  background: #2e2e2e;
+}
